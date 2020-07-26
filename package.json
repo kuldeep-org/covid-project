@@ -1,0 +1,22 @@
+{
+  "name": "@kuldeep-org/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep-org/covid-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep-org/covid-project/issues"
+  },
+  "homepage": "https://github.com/kuldeep-org/covid-project#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
