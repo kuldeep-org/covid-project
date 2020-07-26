@@ -1,2 +1,3 @@
-# first-package
+# Covid Project
+
 Trying out github packages
