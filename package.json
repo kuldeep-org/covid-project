@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kuldeep-org/covid-project#readme",
   "devDependencies": {
-    "jest": "^26.1.0"
+    "jest": "^26.1.0",
+    "lerna": "^3.22.1"
   }
 }
