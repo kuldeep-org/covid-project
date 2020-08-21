@@ -11,5 +11,6 @@
     "url": "git+https://github.com/kuldeep-org/covid-project.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "02d33db5574183c179b9b59bdf78db3ce8195657"
 }
