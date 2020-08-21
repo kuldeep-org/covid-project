@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/kuldeep-org/covid-project/issues"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "homepage": "https://github.com/kuldeep-org/covid-project#readme",
-  "gitHead": "58796e5c8a902859122b73ec8fd8b05f865f312f"
+  "gitHead": "44e03d6d227b491fa89ac1ea718d991097e135d3"
 }
