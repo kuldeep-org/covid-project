@@ -1,6 +1,6 @@
 {
   "name": "@kuldeep-org/second-package",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
     "url": "https://github.com/kuldeep-org/covid-project/issues"
   },
   "homepage": "https://github.com/kuldeep-org/covid-project#readme",
-  "gitHead": "d3cf20ba512e98f6d5d94dea36b182e6a7e498be"
+  "gitHead": "58796e5c8a902859122b73ec8fd8b05f865f312f"
 }
