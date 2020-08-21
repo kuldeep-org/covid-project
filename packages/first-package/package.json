@@ -1,6 +1,6 @@
 {
   "name": "@kuldeep-org/first-package",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   },
   "author": "",
   "license": "MIT",
-  "gitHead": "1f678fda6c3370c7aa5141eeaaf27c616dd0b1bb"
+  "gitHead": "d3cf20ba512e98f6d5d94dea36b182e6a7e498be"
 }
